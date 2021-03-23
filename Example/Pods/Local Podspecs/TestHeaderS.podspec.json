@@ -1,0 +1,22 @@
+{
+  "name": "TestHeaderS",
+  "version": "0.1.0",
+  "summary": "A short description of TestHeaderS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/luqing07/TestHeaderS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luqing07": "luqing07@meituan.com"
+  },
+  "source": {
+    "git": "https://github.com/luqing07/TestHeaderS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestHeaderS/Classes/**/*.{h,m,mm,hpp,c,cpp,cc}"
+}

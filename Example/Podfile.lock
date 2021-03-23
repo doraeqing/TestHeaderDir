@@ -1,0 +1,16 @@
+PODS:
+  - TestHeaderS (0.1.0)
+
+DEPENDENCIES:
+  - TestHeaderS (from `../`)
+
+EXTERNAL SOURCES:
+  TestHeaderS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestHeaderS: b5a0cb513b9c13c64ceb4175d95da0f1e46e8ad3
+
+PODFILE CHECKSUM: 52238e4f2e930a9c1fa42edab6fe1a5fe9590294
+
+COCOAPODS: 1.5.3
